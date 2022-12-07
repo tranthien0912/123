@@ -1,0 +1,10 @@
+.fl {
+  float: left;
+  width: 25%;
+}
+.my-div {
+  width: 100%;
+}
+.my-div ::after {
+  content: "";
+}
